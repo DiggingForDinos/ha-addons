@@ -4,3 +4,6 @@
 [submodule "HomeAssistantTimeMachine"]
 	path = HomeAssistantTimeMachine
 	url = https://github.com/saihgupr/HomeAssistantTimeMachine
+[submodule "addons/HomeAssistantVersionControlBeta"]
+	path = addons/HomeAssistantVersionControlBeta
+	url = https://github.com/saihgupr/HomeAssistantVersionControlBeta
