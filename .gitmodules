@@ -1,18 +1,18 @@
 [submodule "HomeAssistantTimeMachineBeta"]
 	path = HomeAssistantTimeMachineBeta
-	url = https://github.com/saihgupr/HomeAssistantTimeMachineBeta
+	url = https://github.com/DiggingForDinos/HomeAssistantTimeMachineBeta
 [submodule "HomeAssistantTimeMachine"]
 	path = HomeAssistantTimeMachine
-	url = https://github.com/saihgupr/HomeAssistantTimeMachine
+	url = https://github.com/DiggingForDinos/HomeAssistantTimeMachine
 [submodule "HomeAssistantVersionControlBeta"]
 	path = HomeAssistantVersionControlBeta
-	url = https://github.com/saihgupr/HomeAssistantVersionControlBeta
+	url = https://github.com/DiggingForDinos/HomeAssistantVersionControlBeta
 [submodule "addons/HomeAssistantTimeMachineBeta"]
 	path = addons/HomeAssistantTimeMachineBeta
-	url = https://github.com/saihgupr/HomeAssistantTimeMachineBeta
+	url = https://github.com/DiggingForDinos/HomeAssistantTimeMachineBeta
 [submodule "addons/HomeAssistantTimeMachine"]
 	path = addons/HomeAssistantTimeMachine
-	url = https://github.com/saihgupr/HomeAssistantTimeMachine
+	url = https://github.com/DiggingForDinos/HomeAssistantTimeMachine
 [submodule "HomeAssistantVersionControl"]
 	path = HomeAssistantVersionControl
-	url = https://github.com/saihgupr/HomeAssistantVersionControl
+	url = https://github.com/DiggingForDinos/HomeAssistantVersionControl
