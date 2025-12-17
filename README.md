@@ -1,4 +1,4 @@
-# Saihgupr Add-ons Repository
+# DiggingForDinos Add-ons Repository
 
 This repository contains Home Assistant Add-ons for advanced version control and history management.
 
