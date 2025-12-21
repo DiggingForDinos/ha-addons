@@ -1,13 +1,11 @@
 # DiggingForDinos Add-ons Repository
 
-This repository contains Home Assistant Add-ons for advanced version control and history management.
+This repository contains stable Home Assistant Add-ons for advanced version control and history management.
 
 ## Add-ons included
 
 - **[Home Assistant Version Control](https://github.com/DiggingForDinos/HomeAssistantVersionControl)**: Automatic backup, history tracking, and instant restore for your Home Assistant configuration.
 - **[Home Assistant Time Machine](https://github.com/DiggingForDinos/HomeAssistantTimeMachine)**: A web-based tool that acts as a "Time Machine" for your Home Assistant configuration.
-- **[Home Assistant Version Control Beta](https://github.com/DiggingForDinos/HomeAssistantVersionControlBeta)**: Beta version of the version control add-on for experimental features.
-- **[Home Assistant Time Machine Beta](https://github.com/DiggingForDinos/HomeAssistantTimeMachineBeta)**: Beta version of the "Time Machine" add-on with new (yet untested) functionality.
 
 ## Installation
 
@@ -20,3 +18,7 @@ Or manually:
 3. Add the URL of this repository: `https://github.com/DiggingForDinos/ha-addons`.
 4. Click **Add**.
 5. Find the add-ons in the store and install them!
+
+## Looking for beta versions?
+
+Check out the [beta add-ons repository](https://github.com/DiggingForDinos/ha-addons-beta) for experimental features.
